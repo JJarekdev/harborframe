@@ -1,6 +1,6 @@
 # HarborFrame
 
-> A wall-mounted ambient display for visualizing live AIS vessel traffic in the Duluth, MN harbor region.
+> software for visualizing live AIS vessel traffic.
 
 [![Status](https://img.shields.io/badge/status-work--in--progress-yellow)](https://github.com)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -8,7 +8,7 @@
 
 ## Overview
 
-HarborFrame is a wall-mounted ambient display that visualizes boat traffic via live-ish AIS vessel data within the harbor/coastal region of Duluth MN. A personal project I started as a gift for a family member, it is designed to function as a standalone, always-on display suitable for a home or office setting.
+HarborFrame is software designed for a wall-mounted ambient display that visualizes boat traffic via live-ish AIS vessel data within a desired geographical boundary. A personal project I started as a gift for a family member, it is designed to function as a standalone, always-on display suitable for a home or office setting.
 
 This repository currently contains a local development setup using sample vessel data. Live AIS data integration is planned.
 
